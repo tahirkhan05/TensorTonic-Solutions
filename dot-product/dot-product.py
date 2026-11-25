@@ -4,5 +4,5 @@ def dot_product(x: list, y: list) -> float:
     """
     Returns the dot product as a float.
     """
-    result = float(np.dot(x,y))
-    return result
+    
+    return float(np.dot(x,y))
